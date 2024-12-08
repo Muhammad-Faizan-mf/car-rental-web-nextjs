@@ -2,13 +2,13 @@ import { Separator } from "@/components/ui/separator"
 
 export default function Footer() {
     return (
-       <div>
+       <div className="ml-[13%]">
   <div className="flex flex-wrap w-full h-auto bg-white px-4 sm:px-8 py-10">
-    <div className="flex flex-col w-full sm:w-[148px] mb-8 sm:mb-0 mx-auto sm:mx-0 text-center sm:text-left ">
-      <p className="text-[#3563E9] font-sans font-bold text-[32px] md:text-2xl leading-[48px]">
+    <div className="flex flex-col w-full sm:w-[148px] mb-8 sm:mb-0 mx-auto sm:mx-0 text-center sm:text-left">
+      <p className="text-[#3563E9] font-sans font-bold text-[32px] md:text-2xl leading-[48px] ">
         MORENT
       </p>
-      <p className="font-sans font-base text-base text-[#13131399] mt-4 ">
+      <p className=" font-sans font-base text-base text-[#13131399] mt-4">
         Our vision is to provide convenience and help increase your sales business.
       </p>
     </div>
