@@ -51,7 +51,7 @@ export default function Footer() {
 
     <div className="flex gap-6 justify-center sm:justify-start mt-4 sm:mt-0">
       <div className="font-sans text-base font-semibold text-[#1A202C]">Privacy & Policy</div>
-      <div className="font-sans text-base font-semibold text-[#1A202C]">Terms & Condition</div>
+      <div className="font-sans text-base font-semibold text-[#1A202C]">Terms & Conditions</div>
     </div>
   </div>
 </div>
